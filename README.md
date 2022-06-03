@@ -1,21 +1,9 @@
-## 演示地址
-
-[www.lenosp.cn](http://www.lenosp.cn)  admin 123456 [博客blog.lenosp.cn](http://blog.lenosp.cn)
-
-## lenos收录到layui官方2018年度最佳案例名单中
-![图片说明](https://images.gitee.com/uploads/images/2019/1017/214009_9f295d89_907437.jpeg "图片说明")
-
-## 交流群
-* lenos开源脚手架群① 137738503 您有疑问，我们解答，您有建议，我们吸取，您有idea 我们欢迎
-- 群<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=2c71822be7b8c061087a94647663a742a274626a846b76647743ed556a24cabc"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="开源脚手架lenos交流群" title="开源脚手架lenos交流群①"></a>
-
-
 ## 普通版
 - vue博客 ui：[len-blog-ui](https://gitee.com/bweird/len-blog-ui)
 - 地址：[lenos](https://gitee.com/bweird/lenos) 
 
 ## 项目说明
-- lenos(p为spring boot版本扩展名)一款快速开发模块化脚手架，采用spring boot 2.0.1+spring+SpringMvc+mybatis+shiro+swagger+ehcache+quartz+freemarker+layui技术开发；实现功能有系统模块：菜单管理、用户管理、角色管理，系统监控：系统日志、接口api、sql监控。本项目会一直维护并集成新的技术，给您的开发节约时间成本，本项目拥有非boot版本。
+- lenos(p为spring boot版本扩展名)一款快速开发模块化脚手架，采用spring boot 2.0.1+spring+SpringMvc+mybatis+shiro+swagger+ehcache+quartz+freemarker+layui技术开发；实现功能有系统模块：菜单管理、用户管理、角色管理，系统监控：系统日志、接口api、sql监控。
 ## 未来蓝图
 ![图片说明](https://images.gitee.com/uploads/images/2019/1017/214007_d4b418ac_907437.jpeg "图片说明")
 
@@ -87,11 +75,6 @@ java -jar len-web.jar
 * 前端页面：layui
 * 博客前端：vue、iview
 
-## ps
-- lenos承诺永久开源，全部免费，无任何收费地方
-- 如果您喜欢lenos，可以clone下来使用，您的star将是本人前进的动力，本项目无丝毫保留开源，如果您有技术疑问，可以加群交流。
-- 如果lenos对您有一点帮助，您可以点个star，就是对作者最大的支持了。
-* lenos脚手架会一直更新下去，我们的征途是星辰大海
 
 ## 项目图片
 * 登录账号：admin 密码：123456   
@@ -139,34 +122,4 @@ java -jar len-web.jar
 * 项目启动加载完bean后利用spring boot监听开启一个线程，检测已启动的定时任务，进行开启
 * 日志监控 利用aop 自定义拦截日志持久化到数据库并对数据进行监控
 * 接口
-如果对你有帮助，可以打赏请作者喝杯咖啡。
 
-由于群成员满员，众筹升级群人数上限，十分感谢以下lenos群网友的捐助和支持，以下为捐助名单(qq昵称，账号，顺序随机)：
-```
-我有一块大腹肌(18****256) 35.54元
-江湖百晓生 (26****417) 5元
-有道(10*****838) 1.5元
-24岁程序员不想加班(10*****286) 0.56元
-水兮若龙(73****965) 1元
-旭阳(13*****126) 6.6元
-你是一个人物(32*****869) 1元
-笨蛋~猪头]_[(23*****266) 0.45元
-人丑脾气坏(35****702) 0.5元
-襄州绿毛龟(18****933) 0.5元
-小码*(53****051) 0.5元
-AspectJ(13*****013) 0.5元
-不以物喜，不以己悲 (11*****011) 0.5元
-Lotus(37****374) 0.5元
-书山有路(50****945) 0.5元
-欧阳(24****748) 0.5元
-π(12*****085) 0.5元
-laughing(89****060)0.5元
-十八画生(10*****400) 0.5元
-YS.RE(27****583) 0.5元
-小翼(40****384) 20元
-远方(16*****408) 1元
-像我这样的人(41****236) 0.46元
-磊哥(87****537) 12元
-tj(64****183) 20元
-fenghaotong（码云）(83****531) 10元
-```
